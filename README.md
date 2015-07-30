@@ -1,8 +1,4 @@
----
-tags: ruby, kids, intro, databases, active record
-languages: ruby
-type: intro
----
+
 
 ### Students Will Be Able To...
 * Explain why databases are important
