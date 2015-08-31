@@ -4,9 +4,7 @@
 * Explain why databases are important
 * Describe the structure of a database
 * Create and modify tables and access info from tables via SQL queries
-* Connect a Sinatra app to a database
-* Complete tasks using Rake 
-* Use Active Record to access data from a database
+
 
 ---
 ### Using Databases to Remember All the Things
